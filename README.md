@@ -6,6 +6,6 @@ If a new approach is being developed, create a new branch and also a new directo
 
 Participants:
 --
-
+Francisco Parrilla
 
 Supervised by: Dr Alba García Seco de Herrera
