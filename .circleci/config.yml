@@ -26,11 +26,8 @@ jobs:
     steps:
       - checkout
       - *prepare_venv
-      - run: sudo chown -R circleci:circleci /usr/local/bin
-      - run: sudo chown -R circleci:circleci /usr/local/lib/python3.7/site-packages
       - restore_cache:
-          key: deps9-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
-
+          key: py-deps-{{ checksum "packages/cnn_modality_clf/requirements.txt"}}
       - run: 
           name: Install requirements
           command: |
@@ -38,12 +35,9 @@ jobs:
             pip install -r packages/cnn_modality_clf/requirements.txt
       - save_cache:
           paths:
-            - ".venv"
-            - "/usr/local/bin"
-            - "/usr/local/lib/python3.7/site-packages"
+            - "/venv"
+          key: py-deps-{{ checksum "packages/cnn_modality_clf/requirements.txt"}}
 
-          key: deps9-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
-          
       - *fetch_data
       - run:
           name: Train model 
