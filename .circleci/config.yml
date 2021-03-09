@@ -32,7 +32,7 @@ jobs:
           command: |
             . venv/bin/activate
             pip install -r packages/cnn_modality_clf/requirements.txt
-            
+
       - *fetch_data
       - run:
           name: Train model 
@@ -43,7 +43,7 @@ workflows:
   version: 2.1
   test-all:
     jobs:
-      - train_and_upload_cnn_modality_classifier
+      - train_and_save_cnn_modality_classifier
 
 
 

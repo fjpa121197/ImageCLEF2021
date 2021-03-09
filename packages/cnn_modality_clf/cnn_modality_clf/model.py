@@ -2,9 +2,9 @@ from tensorflow.keras import models, layers, optimizers, callbacks, wrappers
 from tensorflow.keras.wrappers.scikit_learn import KerasClassifier
 
 
-# TODO: Check how to set a seed to repoduce results
-# TODO: Check how to implement ModelCheckpoint and reduce learning rate
-# TODO: Check how to implement a callback based on the modelcheckout and learning rate reduction
+# TODO: [CLEF21-2] Check how to set a seed to repoduce results
+# TODO: [CLEF21-3] Check how to implement ModelCheckpoint and reduce learning rate
+# TODO: [CLEF21-4] Check how to implement a callback based on the modelcheckout and learning rate reduction
 
 def cnn_model(kernel_size=(3, 3), pool_size=(2, 2), first_filters=32, second_filters=64,
               dropout_conv=0.3, dropout_dense=0.3, image_size=64):
