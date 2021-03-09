@@ -2,7 +2,7 @@ version: 2.1
 
 defaults: &defaults
   docker:
-    - image: circleci/python:3.7.2
+    - image: circleci/python:3.7.0
   working_directory: ~/project
 prepare_venv: &prepare_venv
   run:
@@ -12,18 +12,17 @@ prepare_venv: &prepare_venv
       source venv/bin/activate
       pip install --upgrade pip
 fetch_data: &fetch_data
+# TODO: Add kaggle script to download data for imageclef 2020
   run:
     name: Set script permissions and fetch data 4GB
     command: |
       . venv/bin/activate
-      chmod +x ./scripts/fetch_kaggle_dataset.sh
-      ./scripts/fetch_kaggle_dataset.sh
+      chmod +x ./scripts/fetch_kaggle_dataset_2020.sh
+      ./scripts/fetch_kaggle_dataset_2020.sh
 
 jobs:
-  train_and_upload_neural_network_model:
-    docker:
-      - image: circleci/python:3.6.4-stretch
-    working_directory: ~/project
+  train_and_upload_cnn_modality_classifier:
+    <<: *defaults
     steps:
       - checkout
       - *prepare_venv
@@ -31,12 +30,17 @@ jobs:
           name: Install requirements
           command: |
             . venv/bin/activate
-            pip install -r packages/neural_network_model/requirements.txt
-
+            pip install -r packages/cnn_modality_clf/requirements.txt
       - *fetch_data
       - run:
           name: Train model 
           command: |
             . venv/bin/activate
-            PYTHONPATH=./packages/
+
+workflows:
+  version: 2.1
+  test-all:
+    jobs:
+      - train_and_upload_cnn_modality_classifier
+
          
