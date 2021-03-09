@@ -21,23 +21,18 @@ fetch_data: &fetch_data
       ./scripts/fetch_kaggle_dataset_2020.sh
 
 jobs:
-  train_and_upload_cnn_modality_classifier:
+  train_and_save_cnn_modality_classifier:
     <<: *defaults
     steps:
       - checkout
       - *prepare_venv
-      - restore_cache:
-          key: py-deps-{{ checksum "packages/cnn_modality_clf/requirements.txt"}}
+
       - run: 
           name: Install requirements
           command: |
             . venv/bin/activate
             pip install -r packages/cnn_modality_clf/requirements.txt
-      - save_cache:
-          paths:
-            - "/venv"
-          key: py-deps-{{ checksum "packages/cnn_modality_clf/requirements.txt"}}
-
+            
       - *fetch_data
       - run:
           name: Train model 
@@ -50,4 +45,12 @@ workflows:
     jobs:
       - train_and_upload_cnn_modality_classifier
 
-         
+
+
+#- restore_cache:
+#          key: py-deps-{{ checksum "packages/cnn_modality_clf/requirements.txt"}}
+
+#- save_cache:
+#          paths:
+#            - "/venv"
+#          key: py-deps-{{ checksum "packages/cnn_modality_clf/requirements.txt"}}
