@@ -36,14 +36,15 @@ jobs:
           command: |
             . venv/bin/activate
             pip install -r packages/cnn_modality_clf/requirements.txt
-      - *fetch_data
       - save_cache:
           paths:
             - ".venv"
             - "/usr/local/bin"
             - "/usr/local/lib/python3.7/site-packages"
-            
+
           key: deps9-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
+          
+      - *fetch_data
       - run:
           name: Train model 
           command: |
