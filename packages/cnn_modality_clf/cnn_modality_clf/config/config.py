@@ -11,3 +11,23 @@ MODEL_NAME = 'cnn_modality_clf'
 PIPELINE_NAME = 'cnn_pipe'
 CLASSES_NAME = 'classes'
 ENCODER_NAME = 'encoder'
+
+# MODEL FITTING
+IMAGE_SIZE = 64
+BATCH_SIZE = 10
+EPOCHS = 1
+
+with open(os.path.join(PACKAGE_ROOT, 'VERSION')) as version_file:
+    _version = version_file.read().strip()
+
+MODEL_FILE_NAME = f'{MODEL_NAME}_{_version}.h5'
+MODEL_PATH = os.path.join(TRAINED_MODEL_DIR, MODEL_FILE_NAME)
+
+PIPELINE_FILE_NAME = f'{PIPELINE_NAME}_{_version}.pkl'
+PIPELINE_PATH = os.path.join(TRAINED_MODEL_DIR, PIPELINE_FILE_NAME)
+
+CLASSES_FILE_NAME = f'{CLASSES_NAME}_{_version}.pkl'
+CLASSES_PATH = os.path.join(TRAINED_MODEL_DIR, CLASSES_FILE_NAME)
+
+ENCODER_FILE_NAME = f'{ENCODER_NAME}_{_version}.pkl'
+ENCODER_PATH = os.path.join(TRAINED_MODEL_DIR, ENCODER_FILE_NAME)

@@ -1,10 +1,12 @@
 from tensorflow.keras import models, layers, optimizers, callbacks, wrappers
 from tensorflow.keras.wrappers.scikit_learn import KerasClassifier
+from tensorflow.keras.callbacks import ReduceLROnPlateau, ModelCheckpoint
+
+from cnn_modality_clf.config import config
 
 
 # TODO: [CLEF21-2] Check how to set a seed to repoduce results
-# TODO: [CLEF21-3] Check how to implement ModelCheckpoint and reduce learning rate
-# TODO: [CLEF21-4] Check how to implement a callback based on the modelcheckout and learning rate reduction
+
 
 def cnn_model(kernel_size=(3, 3), pool_size=(2, 2), first_filters=32, second_filters=64,
               dropout_conv=0.3, dropout_dense=0.3, image_size=64):
@@ -25,7 +27,19 @@ def cnn_model(kernel_size=(3, 3), pool_size=(2, 2), first_filters=32, second_fil
 
     return model
 
-"""
+checkpoint = ModelCheckpoint(config.MODEL_PATH,
+                             monitor='acc',
+                             verbose=1,
+                             save_best_only=True,
+                             mode='max')
+
+reduce_lr = ReduceLROnPlateau(monitor='acc',
+                              factor=0.5,
+                              patience=2,
+                              verbose=1,
+                              mode='max',
+                              min_lr=0.00001)
+
 cnn_clf = KerasClassifier(build_fn=cnn_model,
                           batch_size=config.BATCH_SIZE,
                           validation_split=10,
@@ -33,7 +47,7 @@ cnn_clf = KerasClassifier(build_fn=cnn_model,
                           verbose=1,  # progress bar - required for CI job
                           image_size=config.IMAGE_SIZE
                           )
-"""
+
 if __name__ == '__main__':
     model = cnn_model()
     model.summary()
