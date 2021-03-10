@@ -20,15 +20,15 @@ class TargetEncoder(BaseEstimator, TransformerMixin):
         X = to_categorical(self.encoder.transform(X))
         return X
 
+def _im_resize(df, n, image_size):
+    im = cv2.imread(df[n])
+    im = cv2.resize(im, (image_size, image_size))
+    return im
+
 class CreateDataset(BaseEstimator, TransformerMixin):
 
     def __init__(self, image_size=50):
         self.image_size = image_size
-
-    def _im_resize(df, n, image_size):
-        im = cv2.imread(df[n])
-        im = cv2.resize(im, (image_size, image_size))
-        return im
 
     def fit(self, X, y=None):
         return self
@@ -46,4 +46,6 @@ class CreateDataset(BaseEstimator, TransformerMixin):
         print('Dataset Images shape: {} size: {:,}'.format(
             tmp.shape, tmp.size))
         return tmp
+
+
 
