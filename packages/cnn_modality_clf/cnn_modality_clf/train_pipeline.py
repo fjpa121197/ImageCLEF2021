@@ -11,11 +11,13 @@ def run_training(save_result: bool = True):
     images_df = dm.load_images_paths(config.DATA_FOLDER)
     X_train, X_test, y_train, y_test = dm.get_train_test_target(images_df)
 
-    print(X_train.head())
     enc = pp.TargetEncoder()
     enc.fit(y_train)
     y_train = enc.transform(y_train)
 
+    print(X_train)
+    print("------------------------")
+    print(y_train)
     pipe.fit(X_train, y_train)
 
     if save_result:
