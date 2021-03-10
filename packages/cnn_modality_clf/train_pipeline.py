@@ -1,9 +1,9 @@
 import joblib
 
-from pipeline import pipe
-from config import config
-from preprocessing import data_management as dm 
-from preprocessing import preprocessors as pp
+from cnn_modality_clf.pipeline import pipe
+from cnn_modality_clf.config import config
+from cnn_modality_clf.preprocessing import data_management as dm 
+from cnn_modality_clf.preprocessing import preprocessors as pp
 
 
 def run_training(save_result: bool = True):
@@ -23,5 +23,5 @@ def run_training(save_result: bool = True):
         dm.save_pipeline_keras(pipe.pipe)
 
 
-if __name__ == '__main__':
-    run_training(save_results = True)
+if __name__ =='__main__':
+    run_training()
