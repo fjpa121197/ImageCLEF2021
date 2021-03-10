@@ -17,7 +17,7 @@ class TargetEncoder(BaseEstimator, TransformerMixin):
 
     def transform(self, X):
         X = X.copy()
-        X = np_utils.to_categorical(self.encoder.transform(X))
+        X = to_categorical(self.encoder.transform(X))
         return X
 
 class CreateDataset(BaseEstimator, TransformerMixin):

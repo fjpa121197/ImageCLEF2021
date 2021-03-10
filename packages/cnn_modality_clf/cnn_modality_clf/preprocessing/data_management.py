@@ -22,7 +22,6 @@ def load_images_paths(data_folder: str) -> pd.DataFrame:
     # navigate within each folder
     for class_folder_name in os.listdir(data_folder):
         class_folder_path = os.path.join(data_folder, class_folder_name)
-        print(class_folder_name)
         # collect every image path
         for image_path in glob(os.path.join(class_folder_path, "*.jpg")):
             tmp = pd.DataFrame([image_path, class_folder_name]).T
