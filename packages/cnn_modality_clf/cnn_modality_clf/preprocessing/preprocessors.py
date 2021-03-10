@@ -1,4 +1,4 @@
-import numpy as numpy
+import numpy as np
 from tensorflow.keras.utils import to_categorical
 from sklearn.preprocessing import LabelEncoder
 from sklearn.base import BaseEstimator, TransformerMixin
