@@ -25,3 +25,4 @@ def run_training(save_result: bool = True):
 
 if __name__ =='__main__':
     run_training()
+    
