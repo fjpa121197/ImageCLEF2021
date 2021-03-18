@@ -5,10 +5,6 @@ from tensorflow.keras.applications import DenseNet121
 
 from config import config_densenet_121
 
-
-# TODO: [CLEF21-2] Check how to set a seed to repoduce results
-
-
 def densenet_121_model(image_size = 256, weights = 'imagenet'):
     
     #Download pretrained DenseNet 121 model with imagenet weights (default) and image size

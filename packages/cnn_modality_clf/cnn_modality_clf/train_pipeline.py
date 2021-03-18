@@ -9,11 +9,12 @@ def run_training(model: str, save_result: bool = True):
     train_generator = dm.image_generator(data_path = config_densenet_121.DATA_FOLDER, 
                                         image_size = config_densenet_121.IMAGE_SIZE,
                                         batch_size = config_densenet_121.BATCH_SIZE, subset = 'training')
-    print(train_generator)
-
+    
     validation_generator = dm.image_generator(data_path = config_densenet_121.DATA_FOLDER, 
                                             image_size = config_densenet_121.IMAGE_SIZE,
                                             batch_size = config_densenet_121.BATCH_SIZE, subset = 'validation')
+    
+    print(train_generator)
     print(validation_generator)
 
     if model == 'densenet121':
