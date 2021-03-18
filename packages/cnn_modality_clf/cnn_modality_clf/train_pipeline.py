@@ -16,7 +16,8 @@ def run_training(model_arg: str, save_result: bool = True):
 
 
     if model_arg == 'densenet121':
-        model = densenet_121.DenseNetClassifier().build_model().train(train_generator, validation_generator)
+        model = densenet_121.DenseNetClassifier().build_model()
+        print(model)
 
 if __name__ == '__main__':
     model_arg = sys.argv[1]

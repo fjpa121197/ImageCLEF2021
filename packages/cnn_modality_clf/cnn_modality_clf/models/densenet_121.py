@@ -26,6 +26,8 @@ class DenseNetClassifier():
         print(self._model.summary())
         self._model.compile(loss = self._loss, optimizer = self._optimizer, metrics = self._metrics)
 
+        return self._model
+
     def train(self, train_generator, validation_generator):
 
         history = self._model.fit(train_generator, train_generator_1, steps_per_epoch=10, epochs=10,
