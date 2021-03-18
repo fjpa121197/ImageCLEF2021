@@ -1,8 +1,6 @@
-import joblib
 from models import densenet_121
 from config import config_default_cnn, config_densenet_121
 from preprocessing import data_management as dm 
-from preprocessing import preprocessors as pp
 import sys
 
 

@@ -3,7 +3,7 @@ from tensorflow.keras.wrappers.scikit_learn import KerasClassifier
 from tensorflow.keras.callbacks import ReduceLROnPlateau, ModelCheckpoint
 from tensorflow.keras.applications import DenseNet121
 
-from cnn_modality_clf.config import config_densenet_121
+from config import config_densenet_121
 
 
 # TODO: [CLEF21-2] Check how to set a seed to repoduce results

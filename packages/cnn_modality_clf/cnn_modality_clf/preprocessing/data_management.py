@@ -14,8 +14,8 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 _logger = logging.getLogger(__name__)
 
-def image_generator(data_path: str, predict_flag: bool = False, 
-                    image_size: int = 256, batch_size: int, subset: str) :
+def image_generator(data_path: str, batch_size: int, subset: str ,predict_flag: bool = False, 
+                    image_size: int = 256) :
 
     if predict_flag == True:
         generator = ImageDataGenerator(rescale=1./255).flow_from_directory(directory = data_path,
