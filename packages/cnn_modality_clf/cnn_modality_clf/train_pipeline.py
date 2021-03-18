@@ -17,9 +17,8 @@ def run_training(model_arg: str, save_result: bool = True):
 
     if model_arg == 'densenet121':
         model = densenet_121.DenseNetClassifier().build_model()
-        print(model)
+        print(model.summary())
 
 if __name__ == '__main__':
     model_arg = sys.argv[1]
-    print(model_arg)
     run_training(model_arg = model_arg)
