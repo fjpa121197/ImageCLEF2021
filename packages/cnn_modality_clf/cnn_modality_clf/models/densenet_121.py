@@ -33,7 +33,7 @@ callbacks = [earlystop]
 cnn_clf = KerasClassifier(build_fn=densenet_121_model,
                           validation_steps=10,
                           epochs=config_densenet_121.EPOCHS,
-                          steps_per_echo = config_densenet_121.EPOCHS,
+                          steps_per_epoch = config_densenet_121.EPOCHS,
                           verbose=1,  # progress bar - required for CI job
                           callbacks = [callbacks]
                           )

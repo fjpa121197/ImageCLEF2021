@@ -38,7 +38,7 @@ jobs:
           name: Train model 
           command: |
             . venv/bin/activate
-            PYTHONPATH=./packages/cnn_modality_clf python3 packages/cnn_modality_clf/cnn_modality_clf/train_pipeline.py
+            PYTHONPATH=./packages/cnn_modality_clf python3 packages/cnn_modality_clf/cnn_modality_clf/train_pipeline.py densenet121
 
 workflows:
   version: 2.1
