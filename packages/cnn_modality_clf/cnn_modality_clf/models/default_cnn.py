@@ -27,18 +27,6 @@ def cnn_model(kernel_size=(3, 3), pool_size=(2, 2), first_filters=32, second_fil
 
     return model
 
-checkpoint = ModelCheckpoint(config.MODEL_PATH,
-                             monitor='acc',
-                             verbose=1,
-                             save_best_only=True,
-                             mode='max')
-
-reduce_lr = ReduceLROnPlateau(monitor='acc',
-                              factor=0.5,
-                              patience=2,
-                              verbose=1,
-                              mode='max',
-                              min_lr=0.00001)
 
 cnn_clf = KerasClassifier(build_fn=cnn_model,
                           batch_size=config.BATCH_SIZE,
