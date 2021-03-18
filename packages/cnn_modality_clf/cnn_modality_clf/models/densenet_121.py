@@ -3,12 +3,10 @@ from tensorflow.keras.wrappers.scikit_learn import KerasClassifier
 from tensorflow.keras.callbacks import ReduceLROnPlateau, ModelCheckpoint
 from tensorflow.keras.applications import DenseNet121
 
-from config import config_densenet_121
-
 
 class DenseNetClassifier():
     def __init__(self):
-        self._image_size = config_densenet_121.IMAGE_SIZE
+        self._image_size = 256
         self._weigths = 'imagenet'
         self._loss = 'categorical_crossentropy'
         self._optimizer = optimizers.Adam(learning_rate=0.001)
@@ -24,6 +22,4 @@ class DenseNetClassifier():
         model = layers.Dropout(0.5, seed = 14)(model)
         prediction_layer = layers.Dense(7, activation= 'softmax')(model)
         self._model = models.Model(inputs = base_model.input, outputs = prediction_layer)
-        
-    def train(self):
         
