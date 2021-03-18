@@ -13,10 +13,8 @@ def run_training(model: str, save_result: bool = True):
     validation_generator = dm.image_generator(data_path = config_densenet_121.DATA_FOLDER, 
                                             image_size = config_densenet_121.IMAGE_SIZE,
                                             batch_size = config_densenet_121.BATCH_SIZE, subset = 'validation')
-    
-    print(train_generator)
-    print(validation_generator)
 
+    print(densenet_121.cnn_clf.summary())
     if model == 'densenet121':
         densenet_121.cnn_clf.fit(train_generator,validation_data = validation_generator)
     elif model == 'default':
