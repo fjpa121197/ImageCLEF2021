@@ -14,7 +14,7 @@ def run_training(model_arg: str, save_result: bool = True):
                                             image_size = config_densenet_121.IMAGE_SIZE,
                                             batch_size = config_densenet_121.BATCH_SIZE, subset = 'validation')
 
-    print(densenet_121.cnn_clf.summary())
+
     if model_arg == 'densenet121':
         model = densenet_121.DenseNetClassifier().build_model()
         print(model.summary())
