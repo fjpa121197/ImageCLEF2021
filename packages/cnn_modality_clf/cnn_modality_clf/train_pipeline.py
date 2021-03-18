@@ -1,4 +1,4 @@
-from models import densenet_121
+from models.densenet_121 import DenseNetClassifier
 from config import config_default_cnn, config_densenet_121
 from preprocessing import data_management as dm 
 import sys
@@ -16,13 +16,11 @@ def run_training(model_arg: str, save_result: bool = True):
 
 
     if model_arg == 'densenet121':
-        model = densenet_121.DenseNetClassifier().build_model()
-        model.fit(train_generator,
-                              steps_per_epoch=10,
-                              epochs=20,
-                              validation_data=validation_generator,
-                              validation_steps=5)
-        
+        base_model = DenseNetClassifier(train_generator, validation_generator)
+        clf = base_model.build_classifier()
+        trained_clf = clf.train()
+        trained_clf.save('This-is-model.h5')
+         
 if __name__ == '__main__':
     model_arg = sys.argv[1]
     run_training(model_arg = model_arg)

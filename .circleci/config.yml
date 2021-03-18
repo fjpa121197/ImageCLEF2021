@@ -35,7 +35,7 @@ jobs:
 
       - *fetch_data
       - run:
-          name: Train model 
+          name: Train and save model 
           command: |
             . venv/bin/activate
             PYTHONPATH=./packages/cnn_modality_clf python3 packages/cnn_modality_clf/cnn_modality_clf/train_pipeline.py densenet121
