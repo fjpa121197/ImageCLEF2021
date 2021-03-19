@@ -28,7 +28,7 @@ class DenseNetClassifier():
         model = layers.Dense(64, activation= 'relu')(model)
         model = layers.Dropout(0.5, seed = 14)(model)
         prediction_layer = layers.Dense(7, activation= 'softmax')(model)
-        self._model = models.Model(inputs = base_model.input, outputs = prediction_layer)
+        self._model = models.Model(inputs = self._basemodel.input, outputs = prediction_layer)
         self._model.compile(loss = self._loss, optimizer = self._optimizer, metrics = self._metrics)
 
         return self
