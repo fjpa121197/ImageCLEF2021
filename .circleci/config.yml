@@ -1,13 +1,10 @@
 version: 2.1
 
 defaults: &defaults
-  build:
-    machine:
-      resource_class: gpu.nvidia.small
-      image: ubuntu-1604-cuda-10.1:201909-23
-    steps:
-      - run: nvidia-smi
+  docker:
+    - image: circleci/python:3.7.0
   working_directory: ~/project
+  
 prepare_venv: &prepare_venv
   run:
     name: Create venv

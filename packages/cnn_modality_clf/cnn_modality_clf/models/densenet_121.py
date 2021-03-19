@@ -33,9 +33,9 @@ class DenseNetClassifier():
     def train(self, train_generator, validation_generator):
         #Train section
         self._model.fit(train_generator,
-                              steps_per_epoch=5,
-                              epochs=5,
+                              steps_per_epoch=100,
+                              epochs=100,
                               validation_data=validation_generator, callbacks = self._callbacks,
-                              validation_steps=2)
+                              validation_steps=10)
 
         return self._model
