@@ -16,9 +16,9 @@ def run_training(model_arg: str, save_result: bool = True):
 
 
     if model_arg == 'densenet121':
-        base_model = DenseNetClassifier(train_generator, validation_generator)
+        base_model = DenseNetClassifier()
         clf = base_model.build_classifier()
-        trained_clf = clf.train()
+        trained_clf = clf.train(train_generator, validation_generator)
         trained_clf.save('This-is-model.h5')
          
 if __name__ == '__main__':

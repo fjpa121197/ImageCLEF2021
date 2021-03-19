@@ -5,9 +5,7 @@ from tensorflow.keras.applications import DenseNet121
 
 
 class DenseNetClassifier():
-    def __init__(self, train_generator, validation_generator):
-        self._train_generator = train_generator
-        self._validation_generator = validation_generator
+    def __init__(self):
         self._image_size = 256
         self._weigths = 'imagenet'
         self._loss = 'categorical_crossentropy'
@@ -21,7 +19,6 @@ class DenseNetClassifier():
                                 input_shape= (self._image_size,self._image_size,3))
 
     def build_classifier(self):
-
         #Build
         #Download pretrained DenseNet 121 model with imagenet weights (default) and image size
         model = layers.GlobalAveragePooling2D()(self._basemodel.output)
@@ -33,21 +30,12 @@ class DenseNetClassifier():
 
         return self
 
-        """
+    def train(self, train_generator, validation_generator):
         #Train section
         self._model.fit(train_generator,
-                              steps_per_epoch=100,
-                              epochs=100,
-                              validation_data=validation_generator, callbacks = self._callbacks,
-                              validation_steps=10)
-
-        """
-    def train(self):
-        #Train section
-        self._model.fit(self._train_generator,
                               steps_per_epoch=5,
                               epochs=5,
-                              validation_data=self._validation_generator, callbacks = self._callbacks,
+                              validation_data=validation_generator, callbacks = self._callbacks,
                               validation_steps=2)
 
         return self._model
