@@ -1,8 +1,12 @@
 version: 2.1
 
 defaults: &defaults
-  docker:
-    - image: circleci/python:3.7.0
+  build:
+    machine:
+      resource_class: gpu.nvidia.small
+      image: ubuntu-1604-cuda-10.1:201909-23
+    steps:
+      - run: nvidia-smi
   working_directory: ~/project
 prepare_venv: &prepare_venv
   run:
