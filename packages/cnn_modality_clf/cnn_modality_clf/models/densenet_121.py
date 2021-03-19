@@ -42,7 +42,7 @@ class DenseNetClassifier():
                               validation_steps=10)
 
         """
-    def train():
+    def train(self):
         #Train section
         self._model.fit(self._train_generator,
                               steps_per_epoch=5,
