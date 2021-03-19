@@ -20,7 +20,7 @@ class DenseNetClassifier():
         self._basemodel = DenseNet121(include_top = False, weights = self._weigths, 
                                 input_shape= (self._image_size,self._image_size,3))
 
-    def build_classifier(self, train_generator, validation_generator):
+    def build_classifier(self):
 
         #Build
         #Download pretrained DenseNet 121 model with imagenet weights (default) and image size
