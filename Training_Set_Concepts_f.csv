@@ -1,0 +1,1317 @@
+Concept,Frequency,SemanticType
+C0000726,26,Body Location or Region
+C0000734,1,Finding
+C0000766,2,Finding
+C0000768,3,Congenital Abnormality
+C0000833,17,Disease or Syndrome
+C0000846,7,Congenital Abnormality
+C0001074,10,"Body Part, Organ, or Organ Component"
+C0001168,8,Acquired Abnormality
+C0001418,1,Neoplastic Process
+C0001563,7,Therapeutic or Preventive Procedure
+C0001575,7,"Body Part, Organ, or Organ Component"
+C0001613,7,"Body Part, Organ, or Organ Component"
+C0001625,5,"Body Part, Organ, or Organ Component"
+C0001629,4,"Body Part, Organ, or Organ Component"
+C0002055,8,Inorganic Chemical
+C0002940,2,Pathologic Function
+C0002978,85,Diagnostic Procedure
+C0003086,5,Body Location or Region
+C0003483,19,"Body Part, Organ, or Organ Component"
+C0003484,1,"Body Part, Organ, or Organ Component"
+C0003489,20,"Body Part, Organ, or Organ Component"
+C0003492,8,Congenital Abnormality
+C0003504,1,Disease or Syndrome
+C0003515,1,Diagnostic Procedure
+C0003516,2,Congenital Abnormality
+C0003615,3,Disease or Syndrome
+C0003617,35,"Body Part, Organ, or Organ Component"
+C0003842,28,"Body Part, Organ, or Organ Component"
+C0003855,3,Anatomical Abnormality
+C0003962,2,Disease or Syndrome
+C0003964,2,Body Substance
+C0004144,8,Pathologic Function
+C0004454,6,Body Location or Region
+C0004456,1,"Body Part, Organ, or Organ Component"
+C0004457,6,"Body Part, Organ, or Organ Component"
+C0004526,4,"Body Part, Organ, or Organ Component"
+C0004749,15,"Element, Ion, or Isotope"
+C0005401,1,"Body Part, Organ, or Organ Component"
+C0005682,10,"Body Part, Organ, or Organ Component"
+C0005687,1,Finding
+C0005767,2,Body Substance
+C0005833,2,Laboratory Procedure
+C0005847,13,"Body Part, Organ, or Organ Component"
+C0005874,2,Sign or Symptom
+C0005889,26,Body Substance
+C0005910,48,Organism Attribute
+C0005931,1,Tissue
+C0005975,1,Medical Device
+C0006104,1,"Body Part, Organ, or Organ Component"
+C0006655,14,"Body Part, Organ, or Organ Component"
+C0006660,18,Organ or Tissue Function
+C0007144,1,Body Location or Region
+C0007276,1,"Body Part, Organ, or Organ Component"
+C0007281,1,"Body Part, Organ, or Organ Component"
+C0007303,1,Tissue
+C0007458,10,"Body Part, Organ, or Organ Component"
+C0007473,2,Body Space or Junction
+C0007531,10,"Body Part, Organ, or Organ Component"
+C0007572,1,"Body Part, Organ, or Organ Component"
+C0007776,7,"Body Part, Organ, or Organ Component"
+C0008034,1,Medical Device
+C0008350,4,Disease or Syndrome
+C0008913,2,"Body Part, Organ, or Organ Component"
+C0009194,1,"Body Part, Organ, or Organ Component"
+C0009353,1,Injury or Poisoning
+C0009368,1,"Body Part, Organ, or Organ Component"
+C0009437,3,"Body Part, Organ, or Organ Component"
+C0009924,221,"Indicator, Reagent, or Diagnostic Aid"
+C0010709,6,Disease or Syndrome
+C0011164,9,Pathologic Function
+C0011334,2,Disease or Syndrome
+C0011389,1,Disease or Syndrome
+C0011666,11,"Body Part, Organ, or Organ Component"
+C0011980,5,"Body Part, Organ, or Organ Component"
+C0011999,4,Congenital Abnormality
+C0012359,9,Pathologic Function
+C0012624,1,Disease or Syndrome
+C0012691,5,Injury or Poisoning
+C0012737,13,Therapeutic or Preventive Procedure
+C0012817,6,Anatomical Abnormality
+C0013103,2,Therapeutic or Preventive Procedure
+C0013303,7,"Body Part, Organ, or Organ Component"
+C0013604,27,Pathologic Function
+C0013687,8,Pathologic Function
+C0013769,1,Body Location or Region
+C0013879,16,"Element, Ion, or Isotope"
+C0013931,2,Therapeutic or Preventive Procedure
+C0013990,2,Pathologic Function
+C0014013,1,Disease or Syndrome
+C0014180,2,"Body Part, Organ, or Organ Component"
+C0014537,2,Body Space or Junction
+C0014570,2,"Body Part, Organ, or Organ Component"
+C0014851,1,Anatomical Abnormality
+C0014860,1,Pathologic Function
+C0014871,3,Body Space or Junction
+C0014876,25,"Body Part, Organ, or Organ Component"
+C0015250,1,Therapeutic or Preventive Procedure
+C0015252,1,Therapeutic or Preventive Procedure
+C0015302,7,Disease or Syndrome
+C0015378,4,Pathologic Function
+C0015645,1,Disease or Syndrome
+C0015731,1,"Body Part, Organ, or Organ Component"
+C0015811,14,"Body Part, Organ, or Organ Component"
+C0015813,4,"Body Part, Organ, or Organ Component"
+C0015815,6,"Body Part, Organ, or Organ Component"
+C0016059,2,Pathologic Function
+C0016068,1,"Body Part, Organ, or Organ Component"
+C0016109,4,"Body Part, Organ, or Organ Component"
+C0016356,6,Diagnostic Procedure
+C0016382,1,Sign or Symptom
+C0016641,1,Therapeutic or Preventive Procedure
+C0016658,44,Injury or Poisoning
+C0016664,1,Injury or Poisoning
+C0016732,5,"Body Part, Organ, or Organ Component"
+C0016733,5,"Body Part, Organ, or Organ Component"
+C0016823,1,"Body Part, Organ, or Organ Component"
+C0016976,10,"Body Part, Organ, or Organ Component"
+C0017129,1,"Body Part, Organ, or Organ Component"
+C0018120,1,"Body Part, Organ, or Organ Component"
+C0018534,1,"Body Part, Organ, or Organ Component"
+C0018563,2,"Body Part, Organ, or Organ Component"
+C0018670,7,Body Location or Region
+C0018787,8,"Body Part, Organ, or Organ Component"
+C0018800,1,Finding
+C0019080,15,Pathologic Function
+C0019123,2,Pathologic Function
+C0019214,2,Sign or Symptom
+C0019270,4,Anatomical Abnormality
+C0019552,3,"Body Part, Organ, or Organ Component"
+C0019939,2,"Body Part, Organ, or Organ Component"
+C0020164,7,"Body Part, Organ, or Organ Component"
+C0020295,2,Disease or Syndrome
+C0020303,1,Finding
+C0020452,2,Disease or Syndrome
+C0020498,6,Disease or Syndrome
+C0020564,10,Pathologic Function
+C0020889,4,"Body Part, Organ, or Organ Component"
+C0021358,1,"Body Part, Organ, or Organ Component"
+C0021485,8,Therapeutic or Preventive Procedure
+C0021851,1,"Body Part, Organ, or Organ Component"
+C0021852,14,"Body Part, Organ, or Organ Component"
+C0021853,9,"Body Part, Organ, or Organ Component"
+C0021933,3,Disease or Syndrome
+C0021934,6,Anatomical Abnormality
+C0021935,5,Anatomical Abnormality
+C0021943,5,Cell or Molecular Dysfunction
+C0022378,3,"Body Part, Organ, or Organ Component"
+C0022411,2,Acquired Abnormality
+C0022417,18,Body Space or Junction
+C0022646,9,"Body Part, Organ, or Organ Component"
+C0022650,1,Disease or Syndrome
+C0022651,3,"Body Part, Organ, or Organ Component"
+C0022742,12,"Body Part, Organ, or Organ Component"
+C0023216,3,"Body Part, Organ, or Organ Component"
+C0023776,1,Organic Chemical
+C0023779,1,Organic Chemical
+C0023798,12,Neoplastic Process
+C0023884,7,"Body Part, Organ, or Organ Component"
+C0024090,17,Body Location or Region
+C0024091,9,"Body Part, Organ, or Organ Component"
+C0024109,37,"Body Part, Organ, or Organ Component"
+C0024204,3,"Body Part, Organ, or Organ Component"
+C0024348,6,Pathologic Function
+C0024485,589,Diagnostic Procedure
+C0024671,19,Diagnostic Procedure
+C0025062,3,Disease or Syndrome
+C0025066,26,Body Location or Region
+C0025080,1,Medical Device
+C0025148,2,"Body Part, Organ, or Organ Component"
+C0025255,1,Tissue
+C0025285,9,"Body Part, Organ, or Organ Component"
+C0025474,14,Body Location or Region
+C0025584,10,"Body Part, Organ, or Organ Component"
+C0025589,1,Body Space or Junction
+C0026024,1,Laboratory Procedure
+C0026724,1,Tissue
+C0026727,1,Body Substance
+C0026845,8,Tissue
+C0026995,1,Diagnostic Procedure
+C0027088,2,"Body Part, Organ, or Organ Component"
+C0027121,1,Disease or Syndrome
+C0027530,20,Body Location or Region
+C0027540,3,Organ or Tissue Function
+C0027551,1,Medical Device
+C0027627,6,Neoplastic Process
+C0027651,8,Neoplastic Process
+C0027709,1,Disease or Syndrome
+C0027806,3,Congenital Abnormality
+C0028109,1,"Body Part, Organ, or Organ Component"
+C0028259,15,Acquired Abnormality
+C0028778,1,Pathologic Function
+C0028881,2,"Body Part, Organ, or Organ Component"
+C0028908,1,Organic Chemical
+C0029053,33,Finding
+C0029408,1,Disease or Syndrome
+C0029433,1,Organ or Tissue Function
+C0029443,1,Disease or Syndrome
+C0029445,3,Pathologic Function
+C0029453,3,Disease or Syndrome
+C0029939,5,"Body Part, Organ, or Organ Component"
+C0030193,1,Sign or Symptom
+C0030274,2,"Body Part, Organ, or Organ Component"
+C0030647,9,"Body Part, Organ, or Organ Component"
+C0030797,25,"Body Part, Organ, or Organ Component"
+C0031001,1,Therapeutic or Preventive Procedure
+C0031050,3,"Body Part, Organ, or Organ Component"
+C0031059,4,Body Substance
+C0031557,1,Pathologic Function
+C0031870,1,"Body Part, Organ, or Organ Component"
+C0032225,3,Tissue
+C0032227,12,Disease or Syndrome
+C0032285,1,Disease or Syndrome
+C0032319,1,Disease or Syndrome
+C0032320,1,Disease or Syndrome
+C0032326,3,Disease or Syndrome
+C0032578,1,Cell or Molecular Dysfunction
+C0032652,3,"Body Part, Organ, or Organ Component"
+C0032718,5,"Body Part, Organ, or Organ Component"
+C0032743,33,Diagnostic Procedure
+C0033085,5,Laboratory Procedure
+C0033727,4,"Element, Ion, or Isotope"
+C0034052,5,"Body Part, Organ, or Organ Component"
+C0034065,1,Pathologic Function
+C0034090,1,"Body Part, Organ, or Organ Component"
+C0034161,1,Body Substance
+C0034193,1,"Body Part, Organ, or Organ Component"
+C0034196,12,"Body Part, Organ, or Organ Component"
+C0034573,9,Diagnostic Procedure
+C0034606,12,Diagnostic Procedure
+C0034628,1,Injury or Poisoning
+C0034896,2,"Body Part, Organ, or Organ Component"
+C0035065,2,"Body Part, Organ, or Organ Component"
+C0035092,4,"Body Part, Organ, or Organ Component"
+C0035239,3,Therapeutic or Preventive Procedure
+C0035561,4,"Body Part, Organ, or Organ Component"
+C0035615,6,Congenital Abnormality
+C0036033,1,Body Location or Region
+C0036037,17,"Body Part, Organ, or Organ Component"
+C0036202,3,Disease or Syndrome
+C0036429,26,Pathologic Function
+C0036439,1,Disease or Syndrome
+C0036624,4,"Body Part, Organ, or Organ Component"
+C0036679,1,Pathologic Function
+C0036974,2,Pathologic Function
+C0037004,3,Body Location or Region
+C0037009,6,Body Space or Junction
+C0037157,1,Anatomical Abnormality
+C0037303,9,"Body Part, Organ, or Organ Component"
+C0037580,15,Disease or Syndrome
+C0037922,9,Body Space or Junction
+C0037925,29,"Body Part, Organ, or Organ Component"
+C0037926,12,Disease or Syndrome
+C0037944,2,Acquired Abnormality
+C0037949,22,"Body Part, Organ, or Organ Component"
+C0037993,3,"Body Part, Organ, or Organ Component"
+C0038002,1,Finding
+C0038257,2,Medical Device
+C0038293,1,"Body Part, Organ, or Organ Component"
+C0038351,10,"Body Part, Organ, or Organ Component"
+C0038529,1,Acquired Abnormality
+C0038917,1,Medical Device
+C0038925,7,"Body Part, Organ, or Organ Component"
+C0038999,1,Finding
+C0039070,2,Sign or Symptom
+C0039099,1,"Body Part, Organ, or Organ Component"
+C0039225,5,Biomedical or Dental Material
+C0039259,1,"Body Part, Organ, or Organ Component"
+C0039277,5,"Body Part, Organ, or Organ Component"
+C0039316,1,"Body Part, Organ, or Organ Component"
+C0039409,1,Body Substance
+C0039508,1,"Body Part, Organ, or Organ Component"
+C0039597,11,"Body Part, Organ, or Organ Component"
+C0039685,1,Congenital Abnormality
+C0039985,25,Diagnostic Procedure
+C0039987,2,"Body Part, Organ, or Organ Component"
+C0040053,3,Pathologic Function
+C0040100,1,Neoplastic Process
+C0040132,2,"Body Part, Organ, or Organ Component"
+C0040184,6,"Body Part, Organ, or Organ Component"
+C0040300,1,Tissue
+C0040398,1159,Diagnostic Procedure
+C0040405,22,Diagnostic Procedure
+C0040432,2,Organ or Tissue Function
+C0040578,11,"Body Part, Organ, or Organ Component"
+C0040661,1,Medical Device
+C0041582,2,Pathologic Function
+C0041618,251,Diagnostic Procedure
+C0042133,4,Neoplastic Process
+C0042149,5,"Body Part, Organ, or Organ Component"
+C0042232,1,"Body Part, Organ, or Organ Component"
+C0042449,4,"Body Part, Organ, or Organ Component"
+C0042458,2,"Body Part, Organ, or Organ Component"
+C0042459,4,"Body Part, Organ, or Organ Component"
+C0042484,3,Pathologic Function
+C0042487,1,Pathologic Function
+C0042655,2,Manufactured Object
+C0042961,1,Disease or Syndrome
+C0043189,3,"Body Part, Organ, or Organ Component"
+C0043246,13,Injury or Poisoning
+C0043262,1,Body Location or Region
+C0052712,7,Therapeutic or Preventive Procedure
+C0056574,5,Therapeutic or Preventive Procedure
+C0058928,2,Therapeutic or Preventive Procedure
+C0078960,2,"Body Part, Organ, or Organ Component"
+C0080218,10,Disease or Syndrome
+C0085086,1,Finding
+C0085195,3,Laboratory Procedure
+C0085222,7,Disease or Syndrome
+C0085232,3,Disease or Syndrome
+C0085590,10,Medical Device
+C0086296,2,Manufactured Object
+C0086881,2,Body Space or Junction
+C0087086,7,Pathologic Function
+C0149561,1,"Body Part, Organ, or Organ Component"
+C0149601,3,"Body Part, Organ, or Organ Component"
+C0149614,3,Anatomical Abnormality
+C0149630,1,Congenital Abnormality
+C0149711,6,Disease or Syndrome
+C0149736,2,Finding
+C0149871,4,Disease or Syndrome
+C0150305,2,Therapeutic or Preventive Procedure
+C0150312,54,Finding
+C0152381,1,"Body Part, Organ, or Organ Component"
+C0153614,1,Neoplastic Process
+C0154270,3,Finding
+C0158100,1,Injury or Poisoning
+C0162481,2,Diagnostic Procedure
+C0162864,6,"Body Part, Organ, or Organ Component"
+C0162871,4,Disease or Syndrome
+C0168634,1,Biomedical or Dental Material
+C0175659,21,Medical Device
+C0175723,7,Medical Device
+C0178282,1,Anatomical Abnormality
+C0178802,2,Body Space or Junction
+C0179586,2,Manufactured Object
+C0179740,3,Medical Device
+C0180459,45,Manufactured Object
+C0180504,1,Medical Device
+C0180647,5,Medical Device
+C0180860,5,Manufactured Object
+C0181074,1,Biomedical or Dental Material
+C0181119,1,Medical Device
+C0181687,4,Medical Device
+C0182324,1,Manufactured Object
+C0184511,1,Finding
+C0184906,1,Therapeutic or Preventive Procedure
+C0185023,2,Therapeutic or Preventive Procedure
+C0185027,2,Therapeutic or Preventive Procedure
+C0185364,2,Therapeutic or Preventive Procedure
+C0191877,1,Therapeutic or Preventive Procedure
+C0199779,3,Therapeutic or Preventive Procedure
+C0201519,6,Laboratory Procedure
+C0202653,10,Diagnostic Procedure
+C0202813,1,Diagnostic Procedure
+C0202823,49,Diagnostic Procedure
+C0202926,1,Diagnostic Procedure
+C0203028,2,Therapeutic or Preventive Procedure
+C0203057,1,Diagnostic Procedure
+C0203065,8,Diagnostic Procedure
+C0203075,2,Diagnostic Procedure
+C0203139,3,Diagnostic Procedure
+C0203179,2,Diagnostic Procedure
+C0203215,1,Diagnostic Procedure
+C0203240,3,Diagnostic Procedure
+C0203244,4,Diagnostic Procedure
+C0203262,5,Diagnostic Procedure
+C0203273,1,Diagnostic Procedure
+C0203281,4,Diagnostic Procedure
+C0203287,9,Diagnostic Procedure
+C0203417,4,Diagnostic Procedure
+C0203668,6,Diagnostic Procedure
+C0203792,2,Diagnostic Procedure
+C0205039,2,"Body Part, Organ, or Organ Component"
+C0205054,4,Body Location or Region
+C0205082,12,Finding
+C0205160,8,Finding
+C0205161,19,Finding
+C0205400,62,Finding
+C0206062,4,Disease or Syndrome
+C0206633,1,Neoplastic Process
+C0206667,1,Neoplastic Process
+C0206728,1,Neoplastic Process
+C0220668,4,Congenital Abnormality
+C0221103,2,Pathologic Function
+C0221198,72,Finding
+C0221204,21,Pathologic Function
+C0221352,1,Congenital Abnormality
+C0221353,4,Congenital Abnormality
+C0221370,1,Disease or Syndrome
+C0221690,1,Finding
+C0222017,1,"Body Part, Organ, or Organ Component"
+C0222032,1,"Body Part, Organ, or Organ Component"
+C0222331,5,Tissue
+C0222600,2,"Body Part, Organ, or Organ Component"
+C0222601,8,"Body Part, Organ, or Organ Component"
+C0222652,5,"Body Part, Organ, or Organ Component"
+C0222658,1,Tissue
+C0222660,3,Tissue
+C0222662,4,Body Space or Junction
+C0222671,1,"Body Part, Organ, or Organ Component"
+C0222679,38,Body Location or Region
+C0222762,2,"Body Part, Organ, or Organ Component"
+C0223084,27,"Body Part, Organ, or Organ Component"
+C0223085,3,Body Space or Junction
+C0223172,5,"Body Part, Organ, or Organ Component"
+C0223176,1,"Body Part, Organ, or Organ Component"
+C0223195,1,"Body Part, Organ, or Organ Component"
+C0223205,5,Body Space or Junction
+C0223352,4,"Body Part, Organ, or Organ Component"
+C0223491,7,Body Space or Junction
+C0223548,6,"Body Part, Organ, or Organ Component"
+C0223603,1,"Body Part, Organ, or Organ Component"
+C0223605,15,Body Space or Junction
+C0223683,7,"Body Part, Organ, or Organ Component"
+C0223696,1,"Body Part, Organ, or Organ Component"
+C0223717,3,"Body Part, Organ, or Organ Component"
+C0223724,5,"Body Part, Organ, or Organ Component"
+C0223794,1,"Body Part, Organ, or Organ Component"
+C0223865,2,"Body Part, Organ, or Organ Component"
+C0223892,4,"Body Part, Organ, or Organ Component"
+C0223893,5,"Body Part, Organ, or Organ Component"
+C0223925,1,Body Location or Region
+C0223947,2,"Body Part, Organ, or Organ Component"
+C0224036,1,"Body Part, Organ, or Organ Component"
+C0224153,1,"Body Part, Organ, or Organ Component"
+C0224301,1,"Body Part, Organ, or Organ Component"
+C0224334,3,"Body Part, Organ, or Organ Component"
+C0224459,3,"Body Part, Organ, or Organ Component"
+C0224497,6,Body Space or Junction
+C0224498,5,"Body Part, Organ, or Organ Component"
+C0224521,13,Body Space or Junction
+C0224549,1,Body Space or Junction
+C0224700,2,"Body Part, Organ, or Organ Component"
+C0224724,1,Body Space or Junction
+C0224941,1,"Body Part, Organ, or Organ Component"
+C0224994,13,"Body Part, Organ, or Organ Component"
+C0225317,32,Tissue
+C0225453,5,Body Space or Junction
+C0225594,2,"Body Part, Organ, or Organ Component"
+C0225608,1,"Body Part, Organ, or Organ Component"
+C0225703,1,Body Location or Region
+C0225704,1,"Body Part, Organ, or Organ Component"
+C0225706,13,"Body Part, Organ, or Organ Component"
+C0225707,1,Body Location or Region
+C0225708,3,Body Location or Region
+C0225730,3,"Body Part, Organ, or Organ Component"
+C0225732,1,Body Location or Region
+C0225740,5,"Body Part, Organ, or Organ Component"
+C0225756,8,"Body Part, Organ, or Organ Component"
+C0225757,1,"Body Part, Organ, or Organ Component"
+C0225758,2,"Body Part, Organ, or Organ Component"
+C0225759,3,Body Location or Region
+C0225808,1,Body Location or Region
+C0225809,1,Body Location or Region
+C0225810,2,Body Location or Region
+C0225819,2,Body Location or Region
+C0225836,8,"Body Part, Organ, or Organ Component"
+C0225844,1,"Body Part, Organ, or Organ Component"
+C0225860,5,"Body Part, Organ, or Organ Component"
+C0225973,1,Body Substance
+C0225990,2,"Body Part, Organ, or Organ Component"
+C0226009,2,"Body Part, Organ, or Organ Component"
+C0226025,3,"Body Part, Organ, or Organ Component"
+C0226027,2,"Body Part, Organ, or Organ Component"
+C0226054,12,"Body Part, Organ, or Organ Component"
+C0226069,3,"Body Part, Organ, or Organ Component"
+C0226075,1,"Body Part, Organ, or Organ Component"
+C0226086,4,"Body Part, Organ, or Organ Component"
+C0226087,5,"Body Part, Organ, or Organ Component"
+C0226147,5,"Body Part, Organ, or Organ Component"
+C0226156,2,"Body Part, Organ, or Organ Component"
+C0226187,3,"Body Part, Organ, or Organ Component"
+C0226213,3,"Body Part, Organ, or Organ Component"
+C0226230,5,"Body Part, Organ, or Organ Component"
+C0226231,3,"Body Part, Organ, or Organ Component"
+C0226261,5,"Body Part, Organ, or Organ Component"
+C0226262,8,"Body Part, Organ, or Organ Component"
+C0226332,7,"Body Part, Organ, or Organ Component"
+C0226378,2,"Body Part, Organ, or Organ Component"
+C0226462,1,"Body Part, Organ, or Organ Component"
+C0226501,1,"Body Part, Organ, or Organ Component"
+C0226676,2,"Body Part, Organ, or Organ Component"
+C0226682,6,"Body Part, Organ, or Organ Component"
+C0226694,1,"Body Part, Organ, or Organ Component"
+C0226709,1,"Body Part, Organ, or Organ Component"
+C0226730,2,"Body Part, Organ, or Organ Component"
+C0226742,1,"Body Part, Organ, or Organ Component"
+C0226815,1,"Body Part, Organ, or Organ Component"
+C0227186,1,"Body Part, Organ, or Organ Component"
+C0227188,1,"Body Part, Organ, or Organ Component"
+C0227192,1,"Body Part, Organ, or Organ Component"
+C0227199,1,"Body Part, Organ, or Organ Component"
+C0227224,1,"Body Part, Organ, or Organ Component"
+C0227233,4,Body Space or Junction
+C0227237,2,Body Space or Junction
+C0227284,1,"Body Part, Organ, or Organ Component"
+C0227302,1,"Body Part, Organ, or Organ Component"
+C0227327,2,Body Location or Region
+C0227344,4,"Body Part, Organ, or Organ Component"
+C0227361,2,"Body Part, Organ, or Organ Component"
+C0227375,5,"Body Part, Organ, or Organ Component"
+C0227386,1,"Body Part, Organ, or Organ Component"
+C0227389,2,"Body Part, Organ, or Organ Component"
+C0227391,6,"Body Part, Organ, or Organ Component"
+C0227481,8,"Body Part, Organ, or Organ Component"
+C0227486,2,"Body Part, Organ, or Organ Component"
+C0227492,1,"Body Part, Organ, or Organ Component"
+C0227511,2,Body Space or Junction
+C0227579,12,"Body Part, Organ, or Organ Component"
+C0227582,6,"Body Part, Organ, or Organ Component"
+C0227611,2,"Body Part, Organ, or Organ Component"
+C0227612,7,"Body Part, Organ, or Organ Component"
+C0227613,33,"Body Part, Organ, or Organ Component"
+C0227614,12,"Body Part, Organ, or Organ Component"
+C0227628,7,"Body Part, Organ, or Organ Component"
+C0227629,4,"Body Part, Organ, or Organ Component"
+C0227665,2,"Body Part, Organ, or Organ Component"
+C0227668,1,"Body Part, Organ, or Organ Component"
+C0227682,1,"Body Part, Organ, or Organ Component"
+C0227814,1,"Body Part, Organ, or Organ Component"
+C0227817,2,"Body Part, Organ, or Organ Component"
+C0227844,1,Body Space or Junction
+C0227873,3,"Body Part, Organ, or Organ Component"
+C0227874,2,"Body Part, Organ, or Organ Component"
+C0227997,12,"Body Part, Organ, or Organ Component"
+C0227998,3,"Body Part, Organ, or Organ Component"
+C0228018,2,"Body Part, Organ, or Organ Component"
+C0228020,2,"Body Part, Organ, or Organ Component"
+C0228021,2,"Body Part, Organ, or Organ Component"
+C0228023,1,"Body Part, Organ, or Organ Component"
+C0228084,1,"Body Part, Organ, or Organ Component"
+C0228126,1,"Body Part, Organ, or Organ Component"
+C0228134,42,Body Space or Junction
+C0228158,3,"Body Part, Organ, or Organ Component"
+C0228160,5,"Body Part, Organ, or Organ Component"
+C0228174,8,"Body Part, Organ, or Organ Component"
+C0228193,8,"Body Part, Organ, or Organ Component"
+C0228207,5,"Body Part, Organ, or Organ Component"
+C0228208,1,"Body Part, Organ, or Organ Component"
+C0228575,1,"Body Part, Organ, or Organ Component"
+C0229559,2,"Body Part, Organ, or Organ Component"
+C0229624,6,Tissue
+C0229745,3,"Body Part, Organ, or Organ Component"
+C0229792,3,"Body Part, Organ, or Organ Component"
+C0229802,1,"Body Part, Organ, or Organ Component"
+C0229841,1,"Body Part, Organ, or Organ Component"
+C0229967,2,"Body Part, Organ, or Organ Component"
+C0230026,5,Body Location or Region
+C0230073,2,Body Location or Region
+C0230074,4,Body Location or Region
+C0230086,1,Body Location or Region
+C0230097,1,Body Location or Region
+C0230127,1,Body Location or Region
+C0230128,5,Body Location or Region
+C0230147,3,Body Location or Region
+C0230148,2,Body Location or Region
+C0230149,1,Body Location or Region
+C0230150,4,Body Location or Region
+C0230165,8,Body Location or Region
+C0230166,3,Body Location or Region
+C0230167,9,Body Location or Region
+C0230178,6,Body Location or Region
+C0230185,1,Body Location or Region
+C0230193,1,Body Location or Region
+C0230240,1,"Body Part, Organ, or Organ Component"
+C0230351,1,Body Location or Region
+C0230354,1,Body Location or Region
+C0230370,1,"Body Part, Organ, or Organ Component"
+C0230371,3,"Body Part, Organ, or Organ Component"
+C0230415,1,"Body Part, Organ, or Organ Component"
+C0230426,1,"Body Part, Organ, or Organ Component"
+C0230431,2,"Body Part, Organ, or Organ Component"
+C0230432,3,"Body Part, Organ, or Organ Component"
+C0230447,1,Body Location or Region
+C0230461,6,"Body Part, Organ, or Organ Component"
+C0230467,20,Body Location or Region
+C0231218,5,Sign or Symptom
+C0231452,1,Organ or Tissue Function
+C0231678,3,Sign or Symptom
+C0231748,2,Sign or Symptom
+C0231819,3,Finding
+C0231953,2,Organ or Tissue Function
+C0231957,2,Finding
+C0232310,2,Finding
+C0232339,1,Finding
+C0232341,3,Finding
+C0232483,1,Pathologic Function
+C0232488,1,Finding
+C0233426,4,Organism Attribute
+C0234233,5,Sign or Symptom
+C0235658,1,Congenital Abnormality
+C0236033,1,Organ or Tissue Function
+C0237002,3,"Body Part, Organ, or Organ Component"
+C0237007,1,"Body Part, Organ, or Organ Component"
+C0237020,1,Neoplastic Process
+C0237029,1,Finding
+C0237041,1,Body Substance
+C0238045,2,Disease or Syndrome
+C0238106,1,Disease or Syndrome
+C0238154,5,Pathologic Function
+C0238210,1,Congenital Abnormality
+C0238218,1,Injury or Poisoning
+C0238775,1,Finding
+C0238792,1,Disease or Syndrome
+C0240090,3,Finding
+C0240318,1,Finding
+C0240611,2,Finding
+C0241158,1,Finding
+C0241165,1,Finding
+C0241961,1,Neoplastic Process
+C0242656,3,Pathologic Function
+C0242694,1,"Body Part, Organ, or Organ Component"
+C0242844,1,Diagnostic Procedure
+C0243001,2,Disease or Syndrome
+C0243032,10,Diagnostic Procedure
+C0262431,4,Pathologic Function
+C0262587,1,Neoplastic Process
+C0262613,7,Finding
+C0262950,12,"Body Part, Organ, or Organ Component"
+C0263870,1,Finding
+C0264494,1,Disease or Syndrome
+C0264499,1,Disease or Syndrome
+C0264545,3,Disease or Syndrome
+C0264576,5,Finding
+C0264966,2,Disease or Syndrome
+C0264998,1,Anatomical Abnormality
+C0265004,1,Disease or Syndrome
+C0265104,2,Pathologic Function
+C0265780,1,Congenital Abnormality
+C0265783,1,Congenital Abnormality
+C0265883,6,Congenital Abnormality
+C0265885,1,Congenital Abnormality
+C0265914,1,Congenital Abnormality
+C0266294,6,Congenital Abnormality
+C0266305,3,Congenital Abnormality
+C0266389,1,Congenital Abnormality
+C0267077,2,Acquired Abnormality
+C0267637,1,Disease or Syndrome
+C0267725,3,Disease or Syndrome
+C0267771,6,Disease or Syndrome
+C0267831,1,Congenital Abnormality
+C0269102,1,Neoplastic Process
+C0269855,5,Injury or Poisoning
+C0270724,1,Disease or Syndrome
+C0270777,13,Pathologic Function
+C0272450,5,Injury or Poisoning
+C0272654,2,Injury or Poisoning
+C0272774,3,Injury or Poisoning
+C0272806,11,Injury or Poisoning
+C0278403,1,Tissue
+C0279391,3,Therapeutic or Preventive Procedure
+C0301559,1,Medical Device
+C0302313,1,Finding
+C0302587,2,Biomedical or Dental Material
+C0302821,7,Inorganic Chemical
+C0303611,1,"Indicator, Reagent, or Diagnostic Aid"
+C0311392,7,Finding
+C0332441,1,Finding
+C0332447,1,Anatomical Abnormality
+C0332448,8,Pathologic Function
+C0332482,2,Anatomical Abnormality
+C0332516,2,Finding
+C0332523,1,Finding
+C0332552,2,Finding
+C0332716,1,Injury or Poisoning
+C0332761,12,Injury or Poisoning
+C0332767,3,Injury or Poisoning
+C0332768,2,Injury or Poisoning
+C0332875,1,Congenital Abnormality
+C0332885,4,Congenital Abnormality
+C0332962,7,Congenital Abnormality
+C0333044,2,Anatomical Abnormality
+C0333056,2,Anatomical Abnormality
+C0333099,3,Anatomical Abnormality
+C0333139,1,Finding
+C0333145,2,Anatomical Abnormality
+C0333205,1,Disease or Syndrome
+C0333307,11,Acquired Abnormality
+C0333404,1,Pathologic Function
+C0333582,1,Finding
+C0333641,3,Pathologic Function
+C0336630,3,Medical Device
+C0336721,6,Manufactured Object
+C0340613,1,Anatomical Abnormality
+C0340643,3,Disease or Syndrome
+C0340776,3,Anatomical Abnormality
+C0341356,1,Disease or Syndrome
+C0341510,1,Disease or Syndrome
+C0342500,15,Disease or Syndrome
+C0343168,2,Disease or Syndrome
+C0344096,1,Therapeutic or Preventive Procedure
+C0345091,2,Congenital Abnormality
+C0346255,2,Neoplastic Process
+C0347788,1,Injury or Poisoning
+C0347888,1,Disease or Syndrome
+C0347941,9,Finding
+C0347943,2,Finding
+C0348015,2,Body Location or Region
+C0376161,1,"Body Part, Organ, or Organ Component"
+C0392014,1,Anatomical Abnormality
+C0393983,8,Acquired Abnormality
+C0403477,1,Disease or Syndrome
+C0409295,1,Injury or Poisoning
+C0410013,1,Pathologic Function
+C0411904,3,Diagnostic Procedure
+C0412038,1,Diagnostic Procedure
+C0412118,1,Diagnostic Procedure
+C0412244,3,Diagnostic Procedure
+C0412412,1,Diagnostic Procedure
+C0412534,1,Diagnostic Procedure
+C0412555,1,Diagnostic Procedure
+C0412585,3,Diagnostic Procedure
+C0412604,1,Diagnostic Procedure
+C0412611,3,Diagnostic Procedure
+C0412620,14,Diagnostic Procedure
+C0412621,2,Diagnostic Procedure
+C0412623,7,Diagnostic Procedure
+C0412628,13,Diagnostic Procedure
+C0412650,5,Diagnostic Procedure
+C0412651,2,Diagnostic Procedure
+C0412661,3,Diagnostic Procedure
+C0412693,1,Diagnostic Procedure
+C0420331,1,Finding
+C0423866,2,"Body Part, Organ, or Organ Component"
+C0423899,3,Finding
+C0424641,1,Finding
+C0424688,1,Finding
+C0425570,1,Finding
+C0426689,1,Finding
+C0426908,6,Sign or Symptom
+C0427514,1,Finding
+C0428480,2,Laboratory Procedure
+C0429015,1,Laboratory or Test Result
+C0429964,2,Finding
+C0431718,4,Disease or Syndrome
+C0435577,4,Injury or Poisoning
+C0435772,8,Injury or Poisoning
+C0435846,8,Injury or Poisoning
+C0439775,6,Therapeutic or Preventive Procedure
+C0440102,2,"Indicator, Reagent, or Diagnostic Aid"
+C0440910,2,"Body Part, Organ, or Organ Component"
+C0441513,2,Therapeutic or Preventive Procedure
+C0442751,2,Finding
+C0442816,2,Finding
+C0442838,8,Disease or Syndrome
+C0442872,3,Acquired Abnormality
+C0443343,5,Finding
+C0443349,1,Body Location or Region
+C0444070,2,"Body Part, Organ, or Organ Component"
+C0444099,1,Body Substance
+C0446412,4,Body Location or Region
+C0446415,1,Body Location or Region
+C0446416,1,Body Location or Region
+C0446417,1,Body Location or Region
+C0446419,2,Body Location or Region
+C0446420,4,Body Location or Region
+C0446434,2,Body Location or Region
+C0446436,2,Body Location or Region
+C0446438,7,Body Location or Region
+C0446469,1,Body Location or Region
+C0446472,26,Body Location or Region
+C0446563,3,Body Location or Region
+C0447050,2,"Body Part, Organ, or Organ Component"
+C0447513,2,Body Space or Junction
+C0447618,1,Body Location or Region
+C0447620,1,Body Location or Region
+C0447651,5,"Body Part, Organ, or Organ Component"
+C0447811,1,"Body Part, Organ, or Organ Component"
+C0447843,1,"Body Part, Organ, or Organ Component"
+C0448188,1,"Body Part, Organ, or Organ Component"
+C0448197,8,"Body Part, Organ, or Organ Component"
+C0449279,1,Finding
+C0449432,8,Manufactured Object
+C0450093,6,Finding
+C0453985,2,Manufactured Object
+C0454169,2,Medical Device
+C0456274,5,Acquired Abnormality
+C0456378,1,Medical Device
+C0456605,8,"Body Part, Organ, or Organ Component"
+C0456853,2,Diagnostic Procedure
+C0456879,5,Finding
+C0456973,2,Pathologic Function
+C0457112,4,Body Location or Region
+C0457193,27,Anatomical Abnormality
+C0457354,1,"Body Part, Organ, or Organ Component"
+C0457846,25,"Body Part, Organ, or Organ Component"
+C0457847,11,Body Location or Region
+C0458420,1,Body Location or Region
+C0458421,1,"Body Part, Organ, or Organ Component"
+C0459091,1,"Body Part, Organ, or Organ Component"
+C0459256,1,"Body Part, Organ, or Organ Component"
+C0459414,10,"Body Part, Organ, or Organ Component"
+C0459703,1,"Body Part, Organ, or Organ Component"
+C0459855,1,Diagnostic Procedure
+C0459917,3,"Body Part, Organ, or Organ Component"
+C0459939,2,"Body Part, Organ, or Organ Component"
+C0459941,1,"Body Part, Organ, or Organ Component"
+C0459944,1,"Body Part, Organ, or Organ Component"
+C0459963,3,"Body Part, Organ, or Organ Component"
+C0460005,1,Body Location or Region
+C0473902,5,Diagnostic Procedure
+C0474425,1,Finding
+C0474874,1,Finding
+C0475269,1,Finding
+C0475319,8,Pathologic Function
+C0475372,2,Finding
+C0475380,2,Diagnostic Procedure
+C0475433,1,Body Space or Junction
+C0475468,1,Body Location or Region
+C0476169,1,Injury or Poisoning
+C0476171,8,Injury or Poisoning
+C0476377,2,Finding
+C0489786,3,Organism Attribute
+C0489797,1,"Body Part, Organ, or Organ Component"
+C0489875,3,"Body Part, Organ, or Organ Component"
+C0489877,9,"Body Part, Organ, or Organ Component"
+C0492211,1,Medical Device
+C0496827,1,Neoplastic Process
+C0497156,18,Disease or Syndrome
+C0501123,1,"Body Part, Organ, or Organ Component"
+C0501445,1,"Body Part, Organ, or Organ Component"
+C0501793,1,"Body Part, Organ, or Organ Component"
+C0503201,1,"Body Part, Organ, or Organ Component"
+C0503364,1,"Body Part, Organ, or Organ Component"
+C0503402,3,"Body Part, Organ, or Organ Component"
+C0503868,2,"Body Part, Organ, or Organ Component"
+C0504100,1,Body Space or Junction
+C0506546,2,"Body Part, Organ, or Organ Component"
+C0507134,2,Body Location or Region
+C0507143,1,"Body Part, Organ, or Organ Component"
+C0520743,7,Disease or Syndrome
+C0521174,2,Pathologic Function
+C0521377,1,"Body Part, Organ, or Organ Component"
+C0521530,8,Disease or Syndrome
+C0521620,1,Anatomical Abnormality
+C0522637,3,Manufactured Object
+C0524454,4,Body Location or Region
+C0524461,5,Body Space or Junction
+C0524466,1,Body Location or Region
+C0524468,2,Body Location or Region
+C0524469,4,Body Location or Region
+C0524470,3,Body Location or Region
+C0524471,1,Body Location or Region
+C0524669,2,Manufactured Object
+C0524799,1,Disease or Syndrome
+C0543467,1,Therapeutic or Preventive Procedure
+C0543478,1,Neoplastic Process
+C0544712,1,Finding
+C0544726,1,Finding
+C0544791,1,Pathologic Function
+C0545747,1,"Body Part, Organ, or Organ Component"
+C0546333,2,Finding
+C0546334,3,Finding
+C0549113,4,"Body Part, Organ, or Organ Component"
+C0549207,1,"Body Part, Organ, or Organ Component"
+C0553524,2,"Body Part, Organ, or Organ Component"
+C0554740,5,Diagnostic Procedure
+C0554756,2,Diagnostic Procedure
+C0557651,4,Manufactured Object
+C0557702,8,Manufactured Object
+C0558236,1,Finding
+C0559863,4,Injury or Poisoning
+C0560435,1,Finding
+C0560738,3,Diagnostic Procedure
+C0565496,5,Therapeutic or Preventive Procedure
+C0567261,2,Finding
+C0567498,6,Finding
+C0575132,1,Finding
+C0577053,8,Finding
+C0577075,1,Finding
+C0577305,11,Finding
+C0577559,180,Finding
+C0577725,10,Disease or Syndrome
+C0578735,1,Pathologic Function
+C0581118,1,Finding
+C0581269,8,"Body Part, Organ, or Organ Component"
+C0581385,1,Pathologic Function
+C0582800,1,"Body Part, Organ, or Organ Component"
+C0584651,2,"Body Part, Organ, or Organ Component"
+C0585058,2,Injury or Poisoning
+C0585123,3,Injury or Poisoning
+C0585569,1,Therapeutic or Preventive Procedure
+C0585574,3,"Body Part, Organ, or Organ Component"
+C0587052,1,Finding
+C0588055,5,"Body Part, Organ, or Organ Component"
+C0588058,3,"Body Part, Organ, or Organ Component"
+C0588198,4,"Body Part, Organ, or Organ Component"
+C0588200,2,"Body Part, Organ, or Organ Component"
+C0588203,1,"Body Part, Organ, or Organ Component"
+C0588208,1,"Body Part, Organ, or Organ Component"
+C0588209,1,"Body Part, Organ, or Organ Component"
+C0589120,14,Finding
+C0596680,1,Laboratory Procedure
+C0596790,9,Body Location or Region
+C0597354,5,"Indicator, Reagent, or Diagnostic Aid"
+C0600608,3,Body Substance
+C0677490,7,Diagnostic Procedure
+C0677535,13,Manufactured Object
+C0677944,2,Disease or Syndrome
+C0679548,1,Diagnostic Procedure
+C0694549,1,Disease or Syndrome
+C0694658,3,Body Location or Region
+C0694675,2,Body Location or Region
+C0700124,36,Finding
+C0728985,5,"Body Part, Organ, or Organ Component"
+C0729595,2,"Body Part, Organ, or Organ Component"
+C0733992,1,Body Space or Junction
+C0734003,4,"Body Part, Organ, or Organ Component"
+C0734007,2,"Body Part, Organ, or Organ Component"
+C0734014,10,"Body Part, Organ, or Organ Component"
+C0734739,1,"Body Part, Organ, or Organ Component"
+C0734743,5,"Body Part, Organ, or Organ Component"
+C0734758,2,"Body Part, Organ, or Organ Component"
+C0734759,4,"Body Part, Organ, or Organ Component"
+C0734760,3,"Body Part, Organ, or Organ Component"
+C0734761,8,"Body Part, Organ, or Organ Component"
+C0734772,2,"Body Part, Organ, or Organ Component"
+C0734964,1,Body Location or Region
+C0735009,1,"Body Part, Organ, or Organ Component"
+C0735717,1,Body Location or Region
+C0736171,1,"Body Part, Organ, or Organ Component"
+C0736886,1,"Body Part, Organ, or Organ Component"
+C0736887,1,"Body Part, Organ, or Organ Component"
+C0737426,2,"Body Part, Organ, or Organ Component"
+C0738208,2,Body Location or Region
+C0738524,11,Body Location or Region
+C0738620,1,Body Location or Region
+C0739301,1,"Body Part, Organ, or Organ Component"
+C0740844,9,Finding
+C0741583,3,Finding
+C0741594,1,Finding
+C0741968,2,None
+C0742343,2,Disease or Syndrome
+C0742344,1,Therapeutic or Preventive Procedure
+C0742919,29,Diagnostic Procedure
+C0743997,7,Finding
+C0744257,1,Finding
+C0744316,1,Body Location or Region
+C0744903,4,Finding
+C0745355,2,Body Location or Region
+C0746117,1,Finding
+C0746276,3,Disease or Syndrome
+C0746277,1,Pathologic Function
+C0746405,13,Disease or Syndrome
+C0746408,2,Neoplastic Process
+C0747060,1,Therapeutic or Preventive Procedure
+C0747260,2,Disease or Syndrome
+C0747635,4,Disease or Syndrome
+C0747647,1,Finding
+C0748164,1,Finding
+C0748283,8,Disease or Syndrome
+C0748362,1,Finding
+C0748390,1,Pathologic Function
+C0748541,2,Finding
+C0750929,8,Congenital Abnormality
+C0751001,1,Disease or Syndrome
+C0796494,6,"Body Part, Organ, or Organ Component"
+C0816129,7,"Body Part, Organ, or Organ Component"
+C0816323,2,"Body Part, Organ, or Organ Component"
+C0816528,1,"Body Part, Organ, or Organ Component"
+C0816533,1,"Body Part, Organ, or Organ Component"
+C0816636,5,"Body Part, Organ, or Organ Component"
+C0816699,1,Body Location or Region
+C0817096,23,Body Location or Region
+C0817319,2,"Body Part, Organ, or Organ Component"
+C0817320,3,"Body Part, Organ, or Organ Component"
+C0817323,1,"Body Part, Organ, or Organ Component"
+C0817326,1,"Body Part, Organ, or Organ Component"
+C0819141,1,"Body Part, Organ, or Organ Component"
+C0819757,5,Tissue
+C0824837,2,"Body Part, Organ, or Organ Component"
+C0824845,1,"Body Part, Organ, or Organ Component"
+C0824856,2,"Body Part, Organ, or Organ Component"
+C0824858,1,"Body Part, Organ, or Organ Component"
+C0824862,8,"Body Part, Organ, or Organ Component"
+C0825672,2,"Body Part, Organ, or Organ Component"
+C0825678,3,"Body Part, Organ, or Organ Component"
+C0825800,1,"Body Part, Organ, or Organ Component"
+C0833289,7,"Body Part, Organ, or Organ Component"
+C0833290,1,"Body Part, Organ, or Organ Component"
+C0833669,1,Tissue
+C0835015,2,"Body Part, Organ, or Organ Component"
+C0835016,1,"Body Part, Organ, or Organ Component"
+C0845957,6,Diagnostic Procedure
+C0845968,1,Diagnostic Procedure
+C0855956,1,Diagnostic Procedure
+C0856757,2,Pathologic Function
+C0860209,1,Body Substance
+C0861352,1,Neoplastic Process
+C0877138,1,Disease or Syndrome
+C0877326,6,Pathologic Function
+C0877425,2,Finding
+C0877525,1,Diagnostic Procedure
+C0881779,2,Clinical Attribute
+C0882130,6,Clinical Attribute
+C0919997,1,Finding
+C0920807,3,"Body Part, Organ, or Organ Component"
+C0920808,2,"Body Part, Organ, or Organ Component"
+C0920891,4,"Body Part, Organ, or Organ Component"
+C0920995,1,"Body Part, Organ, or Organ Component"
+C0923008,4,Body Location or Region
+C0923143,2,"Body Part, Organ, or Organ Component"
+C0923406,3,"Body Part, Organ, or Organ Component"
+C0924041,1,"Body Part, Organ, or Organ Component"
+C0925353,1,"Body Part, Organ, or Organ Component"
+C0926821,1,"Body Part, Organ, or Organ Component"
+C0926822,1,"Body Part, Organ, or Organ Component"
+C0926861,5,Body Space or Junction
+C0929167,1,Body Location or Region
+C0929168,2,Body Location or Region
+C0929176,2,"Body Part, Organ, or Organ Component"
+C0929177,2,"Body Part, Organ, or Organ Component"
+C0929178,1,"Body Part, Organ, or Organ Component"
+C0929185,2,Body Location or Region
+C0929193,4,"Body Part, Organ, or Organ Component"
+C0929194,1,"Body Part, Organ, or Organ Component"
+C0929208,1,Body Space or Junction
+C0929209,1,Body Space or Junction
+C0929212,1,Body Location or Region
+C0929214,1,Body Location or Region
+C0929226,1,Body Location or Region
+C0929240,3,Body Location or Region
+C0929518,2,"Body Part, Organ, or Organ Component"
+C0931957,2,"Body Part, Organ, or Organ Component"
+C0932488,1,"Body Part, Organ, or Organ Component"
+C0932508,1,Body Space or Junction
+C0932510,3,Body Space or Junction
+C0933549,1,"Body Part, Organ, or Organ Component"
+C0933845,13,"Body Part, Organ, or Organ Component"
+C0934502,3,"Body Part, Organ, or Organ Component"
+C0934569,1,Body Location or Region
+C0934576,2,Body Location or Region
+C0935623,3,Body Location or Region
+C0935912,2,Diagnostic Procedure
+C0947116,1,"Body Part, Organ, or Organ Component"
+C0947182,2,"Body Part, Organ, or Organ Component"
+C0948162,3,Pathologic Function
+C0948439,1,Diagnostic Procedure
+C0948775,1,Sign or Symptom
+C0991568,1,Biomedical or Dental Material
+C1134719,1,Neoplastic Process
+C1135262,1,Injury or Poisoning
+C1140999,1,Pathologic Function
+C1179404,1,Tissue
+C1179623,3,Body Location or Region
+C1179694,5,Body Location or Region
+C1179695,7,Body Location or Region
+C1179699,7,Body Location or Region
+C1179700,20,Body Location or Region
+C1180353,1,"Body Part, Organ, or Organ Component"
+C1180559,3,"Body Part, Organ, or Organ Component"
+C1181114,2,"Body Part, Organ, or Organ Component"
+C1182713,1,"Body Part, Organ, or Organ Component"
+C1183945,1,"Body Part, Organ, or Organ Component"
+C1184482,1,Body Space or Junction
+C1184740,3,"Body Part, Organ, or Organ Component"
+C1184743,1,"Body Part, Organ, or Organ Component"
+C1185727,1,"Body Part, Organ, or Organ Component"
+C1185736,2,"Body Part, Organ, or Organ Component"
+C1185738,5,"Body Part, Organ, or Organ Component"
+C1186706,1,Body Substance
+C1253936,16,Pathologic Function
+C1261074,22,"Body Part, Organ, or Organ Component"
+C1261075,20,"Body Part, Organ, or Organ Component"
+C1261076,7,"Body Part, Organ, or Organ Component"
+C1261077,15,"Body Part, Organ, or Organ Component"
+C1261195,2,"Body Part, Organ, or Organ Component"
+C1261313,1,Diagnostic Procedure
+C1261381,3,Therapeutic or Preventive Procedure
+C1264124,4,Pathologic Function
+C1265601,5,Anatomical Abnormality
+C1265602,11,Anatomical Abnormality
+C1265741,3,Body Substance
+C1265752,1,Anatomical Abnormality
+C1265765,3,Pathologic Function
+C1265800,4,Pathologic Function
+C1265880,1,Pathologic Function
+C1266898,1,Body Location or Region
+C1266903,2,Body Location or Region
+C1267594,1,"Body Part, Organ, or Organ Component"
+C1268107,1,"Body Part, Organ, or Organ Component"
+C1268260,1,"Body Part, Organ, or Organ Component"
+C1268649,1,Finding
+C1268661,4,Finding
+C1268664,2,Finding
+C1268666,1,Finding
+C1268718,1,Finding
+C1273517,1,Finding
+C1275400,5,Diagnostic Procedure
+C1275670,6,"Body Part, Organ, or Organ Component"
+C1276227,1,Body Location or Region
+C1276274,8,"Body Part, Organ, or Organ Component"
+C1279118,1,"Body Part, Organ, or Organ Component"
+C1279716,1,Medical Device
+C1280751,6,Pathologic Function
+C1282342,1,Body Location or Region
+C1283694,16,"Body Part, Organ, or Organ Component"
+C1283893,1,Body Space or Junction
+C1292300,2,Body System
+C1305372,3,"Body Part, Organ, or Organ Component"
+C1306645,524,Diagnostic Procedure
+C1318509,2,Diagnostic Procedure
+C1321564,1,Medical Device
+C1322687,91,Medical Device
+C1332550,7,Finding
+C1332897,2,Finding
+C1333262,1,Finding
+C1333299,2,Finding
+C1335371,1,Finding
+C1369696,1,Clinical Attribute
+C1384585,3,Immunologic Factor
+C1402288,2,Finding
+C1403670,1,Finding
+C1442903,1,Disease or Syndrome
+C1444775,1,Finding
+C1444777,3,Finding
+C1444778,1,Finding
+C1456184,1,Pathologic Function
+C1457909,1,Disease or Syndrome
+C1508499,5,Body Location or Region
+C1510412,5,Pathologic Function
+C1510828,2,Organism Attribute
+C1511606,1,Finding
+C1513735,12,Finding
+C1514893,6,Pathologic Function
+C1516384,1,"Body Part, Organ, or Organ Component"
+C1517912,1,Body Location or Region
+C1519414,2,Finding
+C1521747,1,Tissue
+C1522460,2,"Body Part, Organ, or Organ Component"
+C1522485,3,"Indicator, Reagent, or Diagnostic Aid"
+C1523994,2,Manufactured Object
+C1527050,2,Clinical Attribute
+C1527071,3,Clinical Attribute
+C1536105,4,Diagnostic Procedure
+C1550235,18,"Body Part, Organ, or Organ Component"
+C1550315,1,"Body Part, Organ, or Organ Component"
+C1627358,39,Therapeutic or Preventive Procedure
+C1627748,1,Diagnostic Procedure
+C1628997,8,Laboratory or Test Result
+C1699633,1,Diagnostic Procedure
+C1704258,1,Finding
+C1704356,1,Neoplastic Process
+C1707398,10,Finding
+C1708533,1,Manufactured Object
+C1709157,2,Finding
+C1715387,1,Clinical Attribute
+C1719039,3,Laboratory Procedure
+C1720771,1,Congenital Abnormality
+C1736830,1,Manufactured Object
+C1835763,13,Finding
+C1835796,1,Finding
+C1849039,1,Finding
+C1849057,1,Finding
+C1849073,1,Anatomical Abnormality
+C1849706,1,Finding
+C1855169,2,Finding
+C1855340,2,Congenital Abnormality
+C1855442,3,Finding
+C1856599,1,Finding
+C1857002,6,Finding
+C1858565,1,Anatomical Abnormality
+C1859695,3,Finding
+C1859722,2,Disease or Syndrome
+C1864873,2,Disease or Syndrome
+C1867930,5,Congenital Abnormality
+C1867933,1,Finding
+C1880121,1,Laboratory Procedure
+C1881134,1,Diagnostic Procedure
+C1881358,62,Finding
+C1881930,1,Finding
+C1882429,7,"Body Part, Organ, or Organ Component"
+C1883685,1,Finding
+C1960025,4,Disease or Syndrome
+C1960244,1,Diagnostic Procedure
+C1960895,1,Diagnostic Procedure
+C1960900,1,Diagnostic Procedure
+C1960904,1,Diagnostic Procedure
+C1979871,1,Diagnostic Procedure
+C2004632,1,Congenital Abnormality
+C2016031,1,Disease or Syndrome
+C2016032,1,Disease or Syndrome
+C2031035,4,Diagnostic Procedure
+C2047639,1,Finding
+C2110143,4,Diagnostic Procedure
+C2126187,1,Finding
+C2126192,2,Finding
+C2205377,1,Disease or Syndrome
+C2321612,2,Diagnostic Procedure
+C2332519,1,"Body Part, Organ, or Organ Component"
+C2332535,7,Body Location or Region
+C2332604,1,"Body Part, Organ, or Organ Component"
+C2335307,1,Body Space or Junction
+C2335345,5,"Body Part, Organ, or Organ Component"
+C2349205,1,Finding
+C2350019,3,Neoplastic Process
+C2350989,8,Organ or Tissue Function
+C2371044,1,"Body Part, Organ, or Organ Component"
+C2455826,1,Diagnostic Procedure
+C2455838,1,Diagnostic Procedure
+C2455905,2,Diagnostic Procedure
+C2456352,1,Diagnostic Procedure
+C2456360,1,Diagnostic Procedure
+C2456879,1,Diagnostic Procedure
+C2456880,5,Diagnostic Procedure
+C2456881,2,Diagnostic Procedure
+C2456961,2,Diagnostic Procedure
+C2457026,4,Diagnostic Procedure
+C2584688,2,Finding
+C2603353,1,Finding
+C2674853,4,Finding
+C2675896,1,Finding
+C2750120,2,Finding
+C2752009,8,Finding
+C2826609,1,Finding
+C2828114,2,Finding
+C2828134,1,Finding
+C2828386,1,Finding
+C2924612,1,Body Location or Region
+C2936828,4,Congenital Abnormality
+C2945839,21,Finding
+C2951308,1,"Body Part, Organ, or Organ Component"
+C2954178,1,Body Location or Region
+C2984079,2,Finding
+C2984840,1,Finding
+C2986562,5,Finding
+C2986779,3,Manufactured Object
+C3275493,6,Finding
+C3276197,4,Finding
+C3277934,4,Finding
+C3489393,3,Disease or Syndrome
+C3515769,1,Diagnostic Procedure
+C3550450,2,Finding
+C3669021,3,Finding
+C3669031,1,"Body Part, Organ, or Organ Component"
+C3669046,1,Body Location or Region
+C3670929,2,Finding
+C3671036,1,Finding
+C3671966,2,Finding
+C3686502,4,Finding
+C3686616,1,Tissue
+C3686666,8,Body Location or Region
+C3698366,2,Finding
+C3809415,2,Finding
+C3810846,13,Finding
+C3827002,1,Finding
+C3827857,1,Finding
+C3830314,14,Finding
+C3831270,1,Tissue
+C3838679,1,Finding
+C3839692,1,Diagnostic Procedure
+C3842088,2,Finding
+C3842377,15,Diagnostic Procedure
+C3842384,1,Finding
+C3842398,2,Body Location or Region
+C3843661,1,Finding
+C3844126,1,Finding
+C3846223,1,Finding
+C3853028,12,"Body Part, Organ, or Organ Component"
+C3862439,1,Disease or Syndrome
+C3872436,1,Finding
+C3887527,1,Congenital Abnormality
+C3890179,2,"Body Part, Organ, or Organ Component"
+C3897360,3,Diagnostic Procedure
+C3897450,1,Pathologic Function
+C4012475,2,None
+C4021140,3,Anatomical Abnormality
+C4022015,2,Finding
+C4024618,1,Finding
+C4025145,2,Anatomical Abnormality
+C4047488,1,Injury or Poisoning
+C4047554,3,Finding
+C4047831,2,Disease or Syndrome
+C4068833,1,Finding
+C4072741,20,"Indicator, Reagent, or Diagnostic Aid"
+C4084859,1,Finding
+C4085887,15,Diagnostic Procedure
+C4086564,7,Finding
+C4086580,1,Finding
+C4086623,6,Finding
+C4086746,1,Finding
+C4224388,1,Body Location or Region
+C4227983,3,Finding
+C4239574,1,Body Space or Junction
+C4240152,1,Body Space or Junction
+C4252747,2,Body Location or Region
+C4266466,1,Body Substance
+C4267704,7,"Body Part, Organ, or Organ Component"
+C4280492,1,Finding
+C4281574,2,Finding
+C4281590,5,"Body Part, Organ, or Organ Component"
+C4290180,3,Pathologic Function
+C4313088,1,Finding
+C4315524,1,Finding
+C4476637,1,Finding
+C4477000,1,Finding
+C4489133,2,Finding
+C4512230,1,Body Location or Region
+C4521198,1,Body Location or Region
+C4524529,1,Pharmacologic Substance
+C4527217,7,Finding
+C4531104,6,Finding
+C4554545,1,Finding
+C4687967,1,Finding
+C4693119,1,Finding
+C4697698,8,Finding
+C4697722,17,Finding
+C4697723,7,Finding
+C4697724,5,Finding
+C4697725,2,Finding
+C4697734,4,Finding
+C4697852,1,Finding
+C4698035,1,Finding
+C4698330,1,Finding
+C4703459,1,Disease or Syndrome
+,,None
