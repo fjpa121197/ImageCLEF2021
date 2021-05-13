@@ -4,6 +4,8 @@ This is repository for the ImageCLEFmed concept detection task (2021 edition). A
 
 Two approaches were used for making predictions: Information Retrieval and Multi-label classification. You can find the Google Colab Notebooks used for each approach with their respective folder. Also, any models generated from training can be found within those folders.
 
+The Google Colab Notebook ImageCLEF2021_Submissions_Notebook can be referenced to see how the submission files (uploaded to AIcrowd) were generated.
+
 Images are stored in a Kaggle repository, but credentials for downloading the data has been omitted since the ownership of it is not ours.
 
 Participants:
