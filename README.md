@@ -1,6 +1,6 @@
 ## ImageCLEF2021
 
-This is repository for the ImageCLEFmed concept detection task (2021 edition). All code and methods were run using Google Colab Notebooks. 
+This is repository for the [ImageCLEFmed concept detection task (2021 edition)](https://www.imageclef.org/2021/medical/caption). All code and methods were run using Google Colab Notebooks. 
 
 Two approaches were used for making predictions: Information Retrieval and Multi-label classification. You can find the Google Colab Notebooks used for each approach with their respective folder. Also, any models generated from training can be found within those folders.
 
